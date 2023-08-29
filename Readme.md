@@ -17,4 +17,4 @@ Create a simple tip calculator.
 - Tip calculation done by tip = (bill * quality)/sharing;
 
 # Hosted Link
-https://ameya-shinde.github.io/Basic-Canvas/
+https://ameya-shinde.github.io/Tip-Calculator/
